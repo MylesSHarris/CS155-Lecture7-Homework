@@ -1,0 +1,4 @@
+/Users/MastaNicky/Projects/Lecture7/Homework/bin/Release/Homework.exe
+/Users/MastaNicky/Projects/Lecture7/Homework/obj/Release/Homework.csprojAssemblyReference.cache
+/Users/MastaNicky/Projects/Lecture7/Homework/obj/Release/Homework.csproj.CoreCompileInputs.cache
+/Users/MastaNicky/Projects/Lecture7/Homework/obj/Release/Homework.exe
